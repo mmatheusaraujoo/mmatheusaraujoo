@@ -11,9 +11,9 @@ Welcome to my profile! I am a systems developer, passionate about technology, co
 
 ## 📊 My GitHub Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmatheusaraujoo&show_icons=true&theme=radical)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmatheusaraujoo&layout=compact&theme=radical)
 
 ## 🌍 Connect With Me
 
