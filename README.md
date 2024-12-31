@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @mmatheusaraujoo a Materials engineer surfing on the coding world!.<br>
-- 👀 I’m interested in Industrial Automation Processes, Data Analysis, Web Development and UX desgin.
-- 🌱 I’m currently learning Phyton for Data Analysis, UX Desgin, Java and Web Development (HTML, CSS and JS).
-- 💞️ I’m looking to collaborate on projects that I can contribute and learn from.
-- 📫 How to reach me: https://www.linkedin.com/in/mmatheusaraujoo/
+# 👋 Hello! I am Matheus Araújo
 
-<!---
-mmatheusaraujoo/mmatheusaraujoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my profile! I am a systems developer, passionate about technology, continuous learning, and creative solutions. 🚀
+
+## 🛠️ My Skills
+
+- 🌐 **Web Development**: HTML, CSS, JavaScript, Angular (Standalone mode).
+- 💾 **Back-end**: .NET, ASP.NET, Entity Framework, SQL Server
+- 🛠️ **Tools**: Git, Docker.
+- 🌍 **Languages**: Portuguese, English (and learning others!).
+
+## 📊 My GitHub Status
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 🌍 Connect With Me
+
+- LinkedIn: Matheus Araújo (https://linkedin.com/in/mmatheusaraujoo)
+
+---
+
+💡 Always open to new ideas and collaborations! 😊
